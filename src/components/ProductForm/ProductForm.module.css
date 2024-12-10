@@ -1,0 +1,33 @@
+.wrapper {
+  position: relative;
+  border: 1px solid #ccc;
+}
+.card {
+  margin: 10px auto;
+}
+.home {
+  position: absolute;
+  left: 900px;
+}
+.pic {
+  margin: 10px auto;
+  width: 300px;
+  height: 300px;
+  border: 1px solid rgb(199, 199, 199);
+}
+.create {
+  margin-top: 10px;
+}
+form{
+    display: grid;
+}
+  input {
+    margin-left: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    width: 200px;
+    height: 25px;
+    border: 1px solid #aaaaaa;
+    border-radius: 6px;
+  }

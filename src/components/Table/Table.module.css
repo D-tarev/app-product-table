@@ -1,0 +1,15 @@
+.edit {
+  font-size: 20px;
+  cursor: pointer;
+}
+.like {
+  font-size: 20px;
+  cursor: pointer;
+  /* background-color: red; */
+}
+
+.delete {
+  font-size: 20px;
+  cursor: pointer;
+}
+
